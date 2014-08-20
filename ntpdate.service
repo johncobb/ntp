@@ -1,3 +1,4 @@
+#/lib/systemd/system/ntpdate.service
 [Unit]
 Description=Network Time Service (one-shot ntpdate mode)
 Before=ntpd.service
